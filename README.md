@@ -1,2 +1,3 @@
-# webDesign_responsivo
-Conceitos de responsividades aplicados em um projeto real.
+# response-web-design
+
+Conceitos de responsividade aplicados em um projeto real.
